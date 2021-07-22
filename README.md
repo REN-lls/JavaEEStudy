@@ -1,2 +1,2 @@
 # JavaEEStudy
-projects done in process of learning Java EE for me
+the repository show some projects done in process of learning Java EE for me.
